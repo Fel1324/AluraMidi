@@ -1,6 +1,6 @@
 <h1 align="center">🥁 Alura Midi 🥁</h1>
 
-<h3 align="center">Projeto Desenvolvido no curso de CSS Grid da Alura</h3>
+<h3 align="center">O Alura Midi foi desenvolvido no curso de JavaScript para Web: Crie páginas dinâmicas na formação: Desenvolva aplicações Web com JavaScript. Da Alura.</h3>
 
 <br>
 
